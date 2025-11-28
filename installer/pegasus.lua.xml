@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <jonchki-artifact version="1.0">
 	<info group="com.github.EvandroLG"
-	      module="pegasus.lua"
+	      module="pegasus_lua"
 	      artifact="pegasus.lua"
 	      version="${PROJECT_VERSION}"
 	      vcs-id="${PROJECT_VERSION_VCS}">
