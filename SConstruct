@@ -76,7 +76,7 @@ for strPatch in astrSortedPatches:
 #
 
 strGroup = 'com.github.EvandroLG'
-strModule = 'pegasus.lua'
+strModule = 'pegasus_lua'
 
 # Split the group by dots.
 aGroup = strGroup.split('.')
