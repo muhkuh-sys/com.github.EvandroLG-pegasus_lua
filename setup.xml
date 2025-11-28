@@ -2,7 +2,7 @@
 <?xml-stylesheet type="text/xsl" href="mbs/setup2html.xsl"?>
 
 <muhkuh_buildsystem group="com.github.EvandroLG" module="pegasus.lua">
-	<project_version>0.9.6.1</project_version>
+	<project_version>0.9.6.2</project_version>
 
 	<scons>
 		<group>org.scons</group>
